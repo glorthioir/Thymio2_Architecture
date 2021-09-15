@@ -1,0 +1,9 @@
+8 8 10
+oxoooooo
+oxxoxooo
+oxxxoxxx
+oxxooooo
+oxoxooox
+oxoxoxox
+ooxoxooo
+oooxoxxb
